@@ -1,7 +1,7 @@
 // App.js
 
 import React from 'react';
-import JobPost from './JobPost';
+import JobPost from './components/JobPost';
 
 const App = () => {
   const jobPostings = [
